@@ -1,0 +1,362 @@
+{
+  "base_url": "https://pub-50af1386ab184f55aa19076628463084.r2.dev",
+  "categories": [
+    "JB5 (PHD Style)",
+    "JB3 18 Corong Atas",
+    "SR3 HD Prime",
+    "JB3 Double Corong",
+    "Lainnya/Spesial"
+  ],
+  "buses": [
+    {
+      "id": "bus-01",
+      "title": "Aneka Bintang JB5 (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/anekabintangjb5(phd style).jpg",
+      "livery_file": "buss/anekabintangjb5(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-02",
+      "title": "Asyrof JB3 Double Corong",
+      "category": "JB3 Double Corong",
+      "preview_image": "buss/asyrofjb3doublecorong.jpg",
+      "livery_file": "buss/asyrofjb3doublecorong-livery.jpg"
+    },
+    {
+      "id": "bus-03",
+      "title": "Baik Rasa JB5(PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/baikrasajb5(phd style).jpg",
+      "livery_file": "buss/baikrasajb5(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-04",
+      "title": "Berkah Bersaudara JB5 (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/berkahbersaudarajb5(phd style).jpg",
+      "livery_file": "buss/berkahbersaudarajb5(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-05",
+      "title": "Best Premium JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/bestpremiumjb318corongatas.jpg",
+      "livery_file": "buss/bestpremiumjb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-06",
+      "title": "Dewi Sri JB5 (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/dewisrijb5(phd style).jpg",
+      "livery_file": "buss/dewisrijb5(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-07",
+      "title": "Gunung Harta SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/gununghartasr3hdprime.jpg",
+      "livery_file": "buss/gununghartasr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-08",
+      "title": "JamesBond JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/jamesbondjb318corongatas.jpg",
+      "livery_file": "buss/jamesbondjb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-09",
+      "title": "Jangulee JB5 (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/janguleejb5(phd style).jpg",
+      "livery_file": "buss/janguleejb5(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-10",
+      "title": "Lancar SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/lancarsr3hdprime.jpg",
+      "livery_file": "buss/lancarsr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-11",
+      "title": "Nabila JB3 Double Corong",
+      "category": "JB3 Double Corong",
+      "preview_image": "buss/nabilajb3doublecorong.jpg",
+      "livery_file": "buss/nabilajb3doublecorong-livery.jpg"
+    },
+    {
+      "id": "bus-12",
+      "title": "Pesona JB5 (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/pesonajb5(phd style).jpg",
+      "livery_file": "buss/pesonajb5(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-13",
+      "title": "PHD Trans JB5(PDH Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/phdtransjb5(pdh style).jpg",
+      "livery_file": "buss/phdtransjb5(pdh style)-livery.jpg"
+    },
+    {
+      "id": "bus-14",
+      "title": "Polosan 2 JB5 ( PHD Style )",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/polosan2jb5(phdstyle).jpg",
+      "livery_file": "buss/polosan2jb5(phdstyle)-livery.jpg"
+    },
+    {
+      "id": "bus-15",
+      "title": "QQ Trans JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/qqtransjb318corongatas.jpg",
+      "livery_file": "buss/qqtransjb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-16",
+      "title": "RJB JB3 Double Corong",
+      "category": "JB3 Double Corong",
+      "preview_image": "buss/rjbjb3doublecorong.jpg",
+      "livery_file": "buss/rjbjb3doublecorong-livery.jpg"
+    },
+    {
+      "id": "bus-17",
+      "title": "Rosalia Indah SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/rosaliaindahsr3hdprime.jpg",
+      "livery_file": "buss/rosaliaindahsr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-18",
+      "title": "Sugeng Rahayu 7129",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/sugengrahayu7129.jpg",
+      "livery_file": "buss/sugengrahayu7129-livery.jpg"
+    },
+    {
+      "id": "bus-19",
+      "title": "TJ Onepiece JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/tjonepiecejb318corongatas.jpg",
+      "livery_file": "buss/tjonepiecejb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-20",
+      "title": "ALS SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/alssr3hdprime.jpg",
+      "livery_file": "buss/alssr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-21",
+      "title": "Eka SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/ekasr3hdprime.jpg",
+      "livery_file": "buss/ekasr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-22",
+      "title": "Garuda Mas SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/garudamassr3hdprime.jpg",
+      "livery_file": "buss/garudamassr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-23",
+      "title": "Harapan Jaya SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/harapanjayasr3hdprime.jpg",
+      "livery_file": "buss/harapanjayasr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-24",
+      "title": "Khatulistiwa SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/khatulistiwasr3hdprime.jpg",
+      "livery_file": "buss/khatulistiwasr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-25",
+      "title": "Kupu Ayu SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/kupuayusr3hdprime.jpg",
+      "livery_file": "buss/kupuayusr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-26",
+      "title": "MPM SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/mpmsr3hdprime.jpg",
+      "livery_file": "buss/mpmsr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-27",
+      "title": "Sugeng Rahayu 7487",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/sugengrahayu7487.jpg",
+      "livery_file": "buss/sugengrahayu7487-livery.jpg"
+    },
+    {
+      "id": "bus-28",
+      "title": "Neng Fairuz JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/nengfairuzjb318corongatas.jpg",
+      "livery_file": "buss/nengfairuzjb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-29",
+      "title": "Patricievra JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/patricievrajb318corongatas.jpg",
+      "livery_file": "buss/patricievrajb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-30",
+      "title": "Pinkboy JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/pinkboyjb318corongatas.jpg",
+      "livery_file": "buss/pinkboyjb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-31",
+      "title": "PO Haryanto JB3 18 Corong Atas Bus",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/poharyantojb318corongatasbus.jpg",
+      "livery_file": "buss/poharyantojb318corongatasbus-livery.jpg"
+    },
+    {
+      "id": "bus-32",
+      "title": "Polosan JB3 Double Corong",
+      "category": "JB3 Double Corong",
+      "preview_image": "buss/polosanjb3doublecorong.jpg",
+      "livery_file": "buss/polosanjb3doublecorong-livery.jpg"
+    },
+    {
+      "id": "bus-33",
+      "title": "Polosan JB5 ( PHD Style )",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/polosanjb5(phdstyle).jpg",
+      "livery_file": "buss/polosanjb5(phdstyle)-livery.jpg"
+    },
+    {
+      "id": "bus-34",
+      "title": "Putra Remaja SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/putraremajasr3hdprime.jpg",
+      "livery_file": "buss/putraremajasr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-35",
+      "title": "Rainbow JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/rainbowjb318corongatas.jpg",
+      "livery_file": "buss/rainbowjb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-36",
+      "title": "Sinar Jaya SR3 HD Prime",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/sinarjayasr3hdprime.jpg",
+      "livery_file": "buss/sinarjayasr3hdprime-livery.jpg"
+    },
+    {
+      "id": "bus-37",
+      "title": "Sugeng Rahayu Discovery",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/sugengrahayudiscovery.jpg",
+      "livery_file": "buss/sugengrahayudiscovery-livery.jpg"
+    },
+    {
+      "id": "bus-38",
+      "title": "Sugeng Rahayu JB3 Full Ac Bus",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/sugengrahayujb3fullacbus.jpg",
+      "livery_file": "buss/sugengrahayujb3fullacbus-livery.jpg"
+    },
+    {
+      "id": "bus-39",
+      "title": "Sugeng Rahayu JB3 SHD",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/sugengrahayujb3shd.jpg",
+      "livery_file": "buss/sugengrahayujb3shd-livery.jpg"
+    },
+    {
+      "id": "bus-40",
+      "title": "Sugeng Rahayu SR3 HD Prime Bus",
+      "category": "SR3 HD Prime",
+      "preview_image": "buss/sugengrahayusr3hdprimebus.jpg",
+      "livery_file": "buss/sugengrahayusr3hdprimebus-livery.jpg"
+    },
+    {
+      "id": "bus-41",
+      "title": "TJ Kyloren JB5 ( PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/tjkylorenjb5(phdstyle).jpg",
+      "livery_file": "buss/tjkylorenjb5(phdstyle)-livery.jpg"
+    },
+    {
+      "id": "bus-42",
+      "title": "TJ Mooneyes JB3 Corong atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/tjmooneyesjb3corongatas.jpg",
+      "livery_file": "buss/tjmooneyesjb3corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-43",
+      "title": "Toretto JB3 18 Corong Atas",
+      "category": "JB3 18 Corong Atas",
+      "preview_image": "buss/torettojb318corongatas.jpg",
+      "livery_file": "buss/torettojb318corongatas-livery.jpg"
+    },
+    {
+      "id": "bus-44",
+      "title": "Transjakarta Discovery",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/transjakartadiscovery.jpg",
+      "livery_file": "buss/transjakartadiscovery-livery.jpg"
+    },
+    {
+      "id": "bus-45",
+      "title": "Transjakarta Evonext",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/transjakartaevonext.jpg",
+      "livery_file": "buss/transjakartaevonext-livery.jpg"
+    },
+    {
+      "id": "bus-46",
+      "title": "Winspector JB3 Double Corong",
+      "category": "JB3 Double Corong",
+      "preview_image": "buss/winspectorjb3doublecorong.jpg",
+      "livery_file": "buss/winspectorjb3doublecorong-livery.jpg"
+    },
+    {
+      "id": "bus-47",
+      "title": "Zafira JB3 Double Corong",
+      "category": "JB3 Double Corong",
+      "preview_image": "buss/zafirajb3doublecorong.jpg",
+      "livery_file": "buss/zafirajb3doublecorong-livery.jpg"
+    },
+    {
+      "id": "bus-48",
+      "title": "Zentrum JB (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/zentrumjb(phd style).jpg",
+      "livery_file": "buss/zentrumjb(phd style)-livery.jpg"
+    },
+    {
+      "id": "bus-49",
+      "title": "Sanjaya Trans JB5 (PHD Style)",
+      "category": "JB5 (PHD Style)",
+      "preview_image": "buss/sanjayatransjb5(phdstyle).jpg",
+      "livery_file": "buss/sanjayatransjb5(phdstyle)-livery.PNG"
+    },
+    {
+      "id": "bus-50",
+      "title": "TJ Kids Panda",
+      "category": "Lainnya/Spesial",
+      "preview_image": "buss/tjkidspanda.jpg",
+      "livery_file": "buss/tjkidspanda-livery.jpg"
+    }
+  ]
+}
