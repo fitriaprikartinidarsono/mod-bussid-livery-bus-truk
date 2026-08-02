@@ -1,54 +1,320 @@
 {
-  "base_url": "https://pub-50af1386ab184f55aa19076628463084.r2.dev",
-  "categories": ["Muatan Sawit", "Sound System", "Hino 500/700 Berbagai Muatan", "Sumatera", "Kalimantan Full Muatan"],
+  "base_url": "https://cdn.jsdelivr.net/gh/fitriaprikartinidarsono/mod-bussid-livery-bus-truk@main",
+  "categories": [
+    "Muatan Sawit",
+    "Sound System",
+    "Hino 500/700 Berbagai Muatan",
+    "Sumatera",
+    "Kalimantan Full Muatan"
+  ],
   "mods": [
-    {"id": "sawit-01", "title": "Canter Custom 03 Livery Dump Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Truck-Canter-Custom-03-Dump-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Truck-Canter-Custom-03-Dump-Sawit.bussidmod"},
-    {"id": "sawit-02", "title": "Canter Antobollo Livery Angkut Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Canter-Dump-Antobollo-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Canter-Dump-Antobollo-Sawit.bussidmod"},
-    {"id": "sawit-03", "title": "Canter Bos Moeda Livery Muatan Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Canter-Bos-Moeda-Muatan-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Canter-Bos-Moeda-Muatan-Sawit.bussidmod"},
-    {"id": "sawit-04", "title": "Isuzu NKR 71 Livery Bawa Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Isuzu-NKR-71-Bawa-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Isuzu-NKR-71-Bawa-Sawit.bussidmod"},
-    {"id": "sawit-05", "title": "Hino 500 Bak Livery Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Truk-Hino-500-Bak-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Truk-Hino-500-Bak-Sawit.bussidmod"},
-    {"id": "sawit-06", "title": "Hino Dump Livery Full Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Truck-Hino-Dump-Full-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Truck-Hino-Dump-Full-Sawit.bussidmod"},
-    {"id": "sawit-07", "title": "Canter Livery Kalimantan Muat Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Canter-Style-Kalimantan-Muat-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Canter-Style-Kalimantan-Muat-Sawit.bussidmod"},
-    {"id": "sawit-08", "title": "Hino Dutro Livery Angkut Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Hino-Dutro-Bawa-Sawit.webp", "mod_file": "-Truck Muatan Sawit/Hino-Dutro-Bawa-Sawit.bussidmod"},
-    {"id": "sawit-09", "title": "Ragasa Dump Livery Sawit Terpal Gayor", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/Ragasa-Dump-Sawit-Terpal-Gayor.webp", "mod_file": "-Truck Muatan Sawit/Ragasa-Dump-Sawit-Terpal-Gayor.bussidmod"},
-    {"id": "sawit-10", "title": "Giga NMR Livery Modern Muatan Sawit", "category": "Muatan Sawit", "image": "-Truck Muatan Sawit/NMR-Modern-Style-Muatan-Sawit.webp", "mod_file": "-Truck Muatan Sawit/NMR-Modern-Style-Muatan-Sawit.bussidmod"},
-
-    {"id": "sound-01", "title": "Hino 500 Livery Angkut Sound", "category": "Sound System", "image": "-Truck muatan Sound System/Truck-Hino-500-Angkut-Sound.webp", "mod_file": "-Truck muatan Sound System/Truck-Hino-500-Angkut-Sound.bussidmod"},
-    {"id": "sound-02", "title": "Maleo Livery Bawa DJ Sound System", "category": "Sound System", "image": "-Truck muatan Sound System/Truk-Maleo-Bawa-DJ-Sound-System.webp", "mod_file": "-Truck muatan Sound System/Truk-Maleo-Bawa-DJ-Sound-System.bussidmod"},
-    {"id": "sound-03", "title": "Canter TE Livery Sound", "category": "Sound System", "image": "-Truck muatan Sound System/Canter-TE-Sound.webp", "mod_file": "-Truck muatan Sound System/Canter-TE-Sound.bussidvehicle"},
-    {"id": "sound-04", "title": "Canter TE Livery Sound v2", "category": "Sound System", "image": "-Truck muatan Sound System/Truck-Canter-TE-Sound-v2.webp", "mod_file": "-Truck muatan Sound System/Truck-Canter-TE-Sound-v2.bussidvehicle"},
-    {"id": "sound-05", "title": "Thong Thong Livery Sound Karnaval", "category": "Sound System", "image": "-Truck muatan Sound System/Thong-Thong-Angkut-Sound-Festival.webp", "mod_file": "-Truck muatan Sound System/Thong-Thong-Angkut-Sound-Festival.bussidmod"},
-    {"id": "sound-06", "title": "Livery Muatan Sound System LED", "category": "Sound System", "image": "-Truck muatan Sound System/Truk-Muatan-Sound-System-Overload.webp", "mod_file": "-Truck muatan Sound System/Truk-Muatan-Sound-System-Overload.bussidvehicle"},
-    {"id": "sound-07", "title": "Hino 500 NG HSD Livery Strom Sound", "category": "Sound System", "image": "-Truck muatan Sound System/Hino-500-NG-HSD-Strom-Sound.webp", "mod_file": "-Truck muatan Sound System/Hino-500-NG-HSD-Strom-Sound.bussidmod"},
-    {"id": "sound-08", "title": "Livery Angkut Sound System Brewog", "category": "Sound System", "image": "-Truck muatan Sound System/NMR71-Angkut-Sound-Audio-Brewog.webp", "mod_file": "-Truck muatan Sound System/NMR71-Angkut-Sound-Audio-Brewog.bussidmod"},
-    {"id": "sound-09", "title": "Pick Up Livery Bawa Sound System", "category": "Sound System", "image": "-Truck muatan Sound System/Pick-Up-bawa-Sound-System.webp", "mod_file": "-Truck muatan Sound System/Pick-Up-bawa-Sound-System.bussidvehicle"},
-    {"id": "sound-10", "title": "Pick Up Livery Dugem Sound", "category": "Sound System", "image": "-Truck muatan Sound System/Pick-Up-Dugem-Sound-Blackpink.webp", "mod_file": "-Truck muatan Sound System/Pick-Up-Dugem-Sound-Blackpink.bussidvehicle"},
-
-    {"id": "hino-01", "title": "Hino 700 Livery Peti Kemas Box", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-700-Peti-Kemas-Box.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Hino-700-Peti-Kemas-Box.bussidmod"},
-    {"id": "hino-02", "title": "Hino 700 Livery Bunthek", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-700.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Hino-700.bussidmod"},
-    {"id": "hino-03", "title": "Hino 500 NG Livery Muatan Semen", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-NG-Muatan-Semen-1280x720.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-NG-Muatan-Semen-1280x720.bussidmod"},
-    {"id": "hino-04", "title": "Hino 500 NG Livery Sound System", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-NG-Muatan-Sound-System-1280x720.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-NG-Muatan-Sound-System-1280x720.bussidmod"},
-    {"id": "hino-05", "title": "Hino 700 Provia Livery Muatan Tank", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-700-Provia-Muatan-Tank-1280x720.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Hino-700-Provia-Muatan-Tank-1280x720.bussidmod"},
-    {"id": "hino-06", "title": "Hino 500 Livery Dump Terpal", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-500-Dump-Terpal.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-500-Dump-Terpal.bussidmod"},
-    {"id": "hino-07", "title": "Hino Selfloader Livery Muatan Excavator", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-Selfloader-Muatan-Excavator.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-Selfloader-Muatan-Excavator.bussidmod"},
-    {"id": "hino-08", "title": "Hino 500 Livery Modifikasi Bumper", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-Modifikasi-Bumper-1.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-Modifikasi-Bumper-1.bussidmod"},
-    {"id": "hino-09", "title": "Hino Lohan Livery Tribal", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-Lohan-Tribal.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-Lohan-Tribal.bussidvehicle"},
-    {"id": "hino-10", "title": "Hino 500NG Livery Muatan Motor", "category": "Hino 500/700 Berbagai Muatan", "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-500NG-Muatan-Motor.webp", "mod_file": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-500NG-Muatan-Motor.bussidmod"},
-
-    {"id": "sumatera-01", "title": "Hino 500 Bak Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Truck-Hino-500-Bak-Sumatra.webp", "mod_file": "-Truck Sumatra/Truck-Hino-500-Bak-Sumatra.bussidmod"},
-    {"id": "sumatera-02", "title": "Canter Dewi Sri Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Truk-Canter-Sumatra-Dewi-Sri.webp", "mod_file": "-Truck Sumatra/Truk-Canter-Sumatra-Dewi-Sri.bussidmod"},
-    {"id": "sumatera-03", "title": "Actros Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Mod-Mercedes-Benz-Actros-Sumatra.webp", "mod_file": "-Truck Sumatra/Mod-Mercedes-Benz-Actros-Sumatra.bussidmod"},
-    {"id": "sumatera-04", "title": "Fuso Tribal Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Truk-Sumatra-Fuso-Tribal.webp", "mod_file": "-Truck Sumatra/Truk-Sumatra-Fuso-Tribal.bussidmod"},
-    {"id": "sumatera-05", "title": "Canter Standar Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Truck-Canter-Standar-Sumatra.webp", "mod_file": "-Truck Sumatra/Truck-Canter-Standar-Sumatra.bussidmod"},
-    {"id": "sumatera-06", "title": "NMR71 Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Mod-Isuzu-NMR71-Sumatra.webp", "mod_file": "-Truck Sumatra/Mod-Isuzu-NMR71-Sumatra.bussidmod"},
-    {"id": "sumatera-07", "title": "Hino Spady Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Mod-BUSSID-Truck-Sumatra-Hino-Spady.webp", "mod_file": "-Truck Sumatra/Mod-BUSSID-Truck-Sumatra-Hino-Spady.bussidmod"},
-    {"id": "sumatera-08", "title": "Canter HDL Livery Sumatra", "category": "Sumatera", "image": "-Truck Sumatra/Truck-Canter-HDL-Sumatra.webp", "mod_file": "-Truck Sumatra/Truck-Canter-HDL-Sumatra.bussidmod"},
-
-    {"id": "kalimantan-01", "title": "Canter Dump Livery Kalimantan", "category": "Kalimantan Full Muatan", "image": "-Truck Kalimantan Full Muatan/Mod-Canter-Dump-Kalimantan.webp", "mod_file": "-Truck Kalimantan Full Muatan/Mod-Canter-Dump-Kalimantan.bussidmod"},
-    {"id": "kalimantan-02", "title": "Fuso FN Livery Muat Peti Kemas Kalimantan", "category": "Kalimantan Full Muatan", "image": "-Truck Kalimantan Full Muatan/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.webp", "mod_file": "-Truck Kalimantan Full Muatan/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.bussidmod"},
-    {"id": "kalimantan-03", "title": "Fuso Kalimantan Livery Muatan Ban", "category": "Kalimantan Full Muatan", "image": "-Truck Kalimantan Full Muatan/Mod-Fuso-Kalimantan-Muatan-Ban.webp", "mod_file": "-Truck Kalimantan Full Muatan/Mod-Fuso-Kalimantan-Muatan-Ban.bussidmod"},
-    {"id": "kalimantan-04", "title": "C47 Fuso SG Livery Oklay", "category": "Kalimantan Full Muatan", "image": "-Truck Kalimantan Full Muatan/C47-Fuso-SG-Oklay.webp", "mod_file": "-Truck Kalimantan Full Muatan/C47-Fuso-SG-Oklay.bussidmod"},
-    {"id": "kalimantan-05", "title": "Fuso Kanaya Putri Livery Muat Sapi", "category": "Kalimantan Full Muatan", "image": "-Truck Kalimantan Full Muatan/Fuso-Kanaya-Putri-Muat-Sapi.webp", "mod_file": "-Truck Kalimantan Full Muatan/Fuso-Kanaya-Putri-Muat-Sapi.bussidmod"},
-    {"id": "kalimantan-06", "title": "Fuso FN Livery Trailer Beton", "category": "Kalimantan Full Muatan", "image": "-Truck Kalimantan Full Muatan/Fuso-FN-Trailer-Beton.webp", "mod_file": "-Truck Kalimantan Full Muatan/Fuso-FN-Trailer-Beton.bussidmod"}
+    {
+      "id": "sawit-01",
+      "title": "Canter Custom 03 Livery Dump Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Truck-Canter-Custom-03-Dump-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Canter-Custom-03-Dump-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-02",
+      "title": "Canter Antobollo Livery Angkut Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Canter-Dump-Antobollo-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Canter-Dump-Antobollo-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-03",
+      "title": "Canter Bos Moeda Livery Muatan Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Canter-Bos-Moeda-Muatan-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Canter-Bos-Moeda-Muatan-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-04",
+      "title": "Isuzu NKR 71 Livery Bawa Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Isuzu-NKR-71-Bawa-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Isuzu-NKR-71-Bawa-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-05",
+      "title": "Hino 500 Bak Livery Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Truk-Hino-500-Bak-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truk-Hino-500-Bak-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-06",
+      "title": "Hino Dump Livery Full Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Truck-Hino-Dump-Full-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-Dump-Full-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-07",
+      "title": "Canter Livery Kalimantan Muat Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Canter-Style-Kalimantan-Muat-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Canter-Style-Kalimantan-Muat-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-08",
+      "title": "Hino Dutro Livery Angkut Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Hino-Dutro-Bawa-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-Dutro-Bawa-Sawit.bussidmod"
+    },
+    {
+      "id": "sawit-09",
+      "title": "Ragasa Dump Livery Sawit Terpal Gayor",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/Ragasa-Dump-Sawit-Terpal-Gayor.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Ragasa-Dump-Sawit-Terpal-Gayor.bussidmod"
+    },
+    {
+      "id": "sawit-10",
+      "title": "Giga NMR Livery Modern Muatan Sawit",
+      "category": "Muatan Sawit",
+      "image": "-Truck Muatan Sawit/NMR-Modern-Style-Muatan-Sawit.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/NMR-Modern-Style-Muatan-Sawit.bussidmod"
+    },
+    {
+      "id": "sound-01",
+      "title": "Hino 500 Livery Angkut Sound",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Truck-Hino-500-Angkut-Sound.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-500-Angkut-Sound.bussidmod"
+    },
+    {
+      "id": "sound-02",
+      "title": "Maleo Livery Bawa DJ Sound System",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Truk-Maleo-Bawa-DJ-Sound-System.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truk-Maleo-Bawa-DJ-Sound-System.bussidmod"
+    },
+    {
+      "id": "sound-03",
+      "title": "Canter TE Livery Sound",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Canter-TE-Sound.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Canter-TE-Sound.bussidvehicle"
+    },
+    {
+      "id": "sound-04",
+      "title": "Canter TE Livery Sound v2",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Truck-Canter-TE-Sound-v2.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Canter-TE-Sound-v2.bussidvehicle"
+    },
+    {
+      "id": "sound-05",
+      "title": "Thong Thong Livery Sound Karnaval",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Thong-Thong-Angkut-Sound-Festival.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Thong-Thong-Angkut-Sound-Festival.bussidmod"
+    },
+    {
+      "id": "sound-06",
+      "title": "Livery Muatan Sound System LED",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Truk-Muatan-Sound-System-Overload.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truk-Muatan-Sound-System-Overload.bussidvehicle"
+    },
+    {
+      "id": "sound-07",
+      "title": "Hino 500 NG HSD Livery Strom Sound",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Hino-500-NG-HSD-Strom-Sound.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-500-NG-HSD-Strom-Sound.bussidmod"
+    },
+    {
+      "id": "sound-08",
+      "title": "Livery Angkut Sound System Brewog",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/NMR71-Angkut-Sound-Audio-Brewog.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/NMR71-Angkut-Sound-Audio-Brewog.bussidmod"
+    },
+    {
+      "id": "sound-09",
+      "title": "Pick Up Livery Bawa Sound System",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Pick-Up-bawa-Sound-System.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Pick-Up-bawa-Sound-System.bussidvehicle"
+    },
+    {
+      "id": "sound-10",
+      "title": "Pick Up Livery Dugem Sound",
+      "category": "Sound System",
+      "image": "-Truck muatan Sound System/Pick-Up-Dugem-Sound-Blackpink.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Pick-Up-Dugem-Sound-Blackpink.bussidvehicle"
+    },
+    {
+      "id": "hino-01",
+      "title": "Hino 700 Livery Peti Kemas Box",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-700-Peti-Kemas-Box.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-700-Peti-Kemas-Box.bussidmod"
+    },
+    {
+      "id": "hino-02",
+      "title": "Hino 700 Livery Bunthek",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-700.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-700.bussidmod"
+    },
+    {
+      "id": "hino-03",
+      "title": "Hino 500 NG Livery Muatan Semen",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-NG-Muatan-Semen-1280x720.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-500-NG-Muatan-Semen-1280x720.bussidmod"
+    },
+    {
+      "id": "hino-04",
+      "title": "Hino 500 NG Livery Sound System",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-NG-Muatan-Sound-System-1280x720.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-500-NG-Muatan-Sound-System-1280x720.bussidmod"
+    },
+    {
+      "id": "hino-05",
+      "title": "Hino 700 Provia Livery Muatan Tank",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-700-Provia-Muatan-Tank-1280x720.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-700-Provia-Muatan-Tank-1280x720.bussidmod"
+    },
+    {
+      "id": "hino-06",
+      "title": "Hino 500 Livery Dump Terpal",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-500-Dump-Terpal.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-500-Dump-Terpal.bussidmod"
+    },
+    {
+      "id": "hino-07",
+      "title": "Hino Selfloader Livery Muatan Excavator",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-Selfloader-Muatan-Excavator.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-Selfloader-Muatan-Excavator.bussidmod"
+    },
+    {
+      "id": "hino-08",
+      "title": "Hino 500 Livery Modifikasi Bumper",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Hino-500-Modifikasi-Bumper-1.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Hino-500-Modifikasi-Bumper-1.bussidmod"
+    },
+    {
+      "id": "hino-09",
+      "title": "Hino Lohan Livery Tribal",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-Lohan-Tribal.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-Lohan-Tribal.bussidvehicle"
+    },
+    {
+      "id": "hino-10",
+      "title": "Hino 500NG Livery Muatan Motor",
+      "category": "Hino 500/700 Berbagai Muatan",
+      "image": "-Truck Hino 500 700 Berbagai Muatan/Truck-Hino-500NG-Muatan-Motor.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-500NG-Muatan-Motor.bussidmod"
+    },
+    {
+      "id": "sumatera-01",
+      "title": "Hino 500 Bak Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Truck-Hino-500-Bak-Sumatra.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Hino-500-Bak-Sumatra.bussidmod"
+    },
+    {
+      "id": "sumatera-02",
+      "title": "Canter Dewi Sri Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Truk-Canter-Sumatra-Dewi-Sri.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truk-Canter-Sumatra-Dewi-Sri.bussidmod"
+    },
+    {
+      "id": "sumatera-03",
+      "title": "Actros Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Mod-Mercedes-Benz-Actros-Sumatra.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Mod-Mercedes-Benz-Actros-Sumatra.bussidmod"
+    },
+    {
+      "id": "sumatera-04",
+      "title": "Fuso Tribal Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Truk-Sumatra-Fuso-Tribal.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truk-Sumatra-Fuso-Tribal.bussidmod"
+    },
+    {
+      "id": "sumatera-05",
+      "title": "Canter Standar Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Truck-Canter-Standar-Sumatra.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Canter-Standar-Sumatra.bussidmod"
+    },
+    {
+      "id": "sumatera-06",
+      "title": "NMR71 Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Mod-Isuzu-NMR71-Sumatra.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Mod-Isuzu-NMR71-Sumatra.bussidmod"
+    },
+    {
+      "id": "sumatera-07",
+      "title": "Hino Spady Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Mod-BUSSID-Truck-Sumatra-Hino-Spady.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Mod-BUSSID-Truck-Sumatra-Hino-Spady.bussidmod"
+    },
+    {
+      "id": "sumatera-08",
+      "title": "Canter HDL Livery Sumatra",
+      "category": "Sumatera",
+      "image": "-Truck Sumatra/Truck-Canter-HDL-Sumatra.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Canter-HDL-Sumatra.bussidmod"
+    },
+    {
+      "id": "kalimantan-01",
+      "title": "Canter Dump Livery Kalimantan",
+      "category": "Kalimantan Full Muatan",
+      "image": "-Truck Kalimantan Full Muatan/Mod-Canter-Dump-Kalimantan.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Mod-Canter-Dump-Kalimantan.bussidmod"
+    },
+    {
+      "id": "kalimantan-02",
+      "title": "Fuso FN Livery Muat Peti Kemas Kalimantan",
+      "category": "Kalimantan Full Muatan",
+      "image": "-Truck Kalimantan Full Muatan/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.bussidmod"
+    },
+    {
+      "id": "kalimantan-03",
+      "title": "Fuso Kalimantan Livery Muatan Ban",
+      "category": "Kalimantan Full Muatan",
+      "image": "-Truck Kalimantan Full Muatan/Mod-Fuso-Kalimantan-Muatan-Ban.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Mod-Fuso-Kalimantan-Muatan-Ban.bussidmod"
+    },
+    {
+      "id": "kalimantan-04",
+      "title": "C47 Fuso SG Livery Oklay",
+      "category": "Kalimantan Full Muatan",
+      "image": "-Truck Kalimantan Full Muatan/C47-Fuso-SG-Oklay.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/C47-Fuso-SG-Oklay.bussidmod"
+    },
+    {
+      "id": "kalimantan-05",
+      "title": "Fuso Kanaya Putri Livery Muat Sapi",
+      "category": "Kalimantan Full Muatan",
+      "image": "-Truck Kalimantan Full Muatan/Fuso-Kanaya-Putri-Muat-Sapi.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Fuso-Kanaya-Putri-Muat-Sapi.bussidmod"
+    },
+    {
+      "id": "kalimantan-06",
+      "title": "Fuso FN Livery Trailer Beton",
+      "category": "Kalimantan Full Muatan",
+      "image": "-Truck Kalimantan Full Muatan/Fuso-FN-Trailer-Beton.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-livery-bus-truk/releases/download/v1/Fuso-FN-Trailer-Beton.bussidmod"
+    }
   ]
 }
