@@ -6,12 +6,18 @@ jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
-      - uses: bling-yshs/purge-jsdelivr-for-directory@v1.0.0
+      - uses: actions/checkout@v4
         with:
-          path: |
-            -Truck Hino 500 700 Berbagai Muatan
-            -Truck Kalimantan Full Muatan
-            -Truck Muatan Sawit
-            -Truck Sumatra
-            -Truck muatan Sound System
-            buss
+          fetch-depth: 2
+      - name: Purge changed files on jsDelivr
+        run: |
+          REPO="fitriaprikartinidarsono/mod-bussid-livery-bus-truk"
+          BRANCH="main"
+          git diff --name-only HEAD^ HEAD | while read -r file; do
+            if [ -f "$file" ]; then
+              ENCODED=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$file")
+              URL="https://purge.jsdelivr.net/gh/$REPO@$BRANCH/$ENCODED"
+              echo "Purging: $URL"
+              curl -s "$URL"
+            fi
+          done
