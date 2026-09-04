@@ -1,0 +1,17 @@
+name: Auto Purge jsDelivr
+on:
+  push:
+    branches: [main]
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bling-yshs/purge-jsdelivr-for-directory@v1.0.0
+        with:
+          path: |
+            -Truck Hino 500 700 Berbagai Muatan
+            -Truck Kalimantan Full Muatan
+            -Truck Muatan Sawit
+            -Truck Sumatra
+            -Truck muatan Sound System
+            buss
