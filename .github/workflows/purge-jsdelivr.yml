@@ -2,6 +2,7 @@ name: Auto Purge jsDelivr
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 jobs:
   purge:
     runs-on: ubuntu-latest
@@ -9,15 +10,24 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
-      - name: Purge changed files on jsDelivr
+      - name: Purge files on jsDelivr
         run: |
           REPO="fitriaprikartinidarsono/mod-bussid-livery-bus-truk"
           BRANCH="main"
-          git diff --name-only HEAD^ HEAD | while read -r file; do
-            if [ -f "$file" ]; then
-              ENCODED=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$file")
-              URL="https://purge.jsdelivr.net/gh/$REPO@$BRANCH/$ENCODED"
-              echo "Purging: $URL"
-              curl -s "$URL"
-            fi
-          done
+          purge_file() {
+            ENCODED=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$1")
+            URL="https://purge.jsdelivr.net/gh/$REPO@$BRANCH/$ENCODED"
+            echo "Purging: $URL"
+            curl -s "$URL"
+          }
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            find . -type f -not -path "./.git/*" -not -path "./.github/*" -print0 | while IFS= read -r -d '' file; do
+              purge_file "${file#./}"
+            done
+          else
+            git diff --name-only HEAD^ HEAD | while IFS= read -r file; do
+              if [ -f "$file" ]; then
+                purge_file "$file"
+              fi
+            done
+          fi
